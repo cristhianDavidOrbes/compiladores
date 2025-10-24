@@ -1,0 +1,6 @@
+COMMA=1
+NL=2
+TEXT=3
+STRING=4
+WS=5
+','=1

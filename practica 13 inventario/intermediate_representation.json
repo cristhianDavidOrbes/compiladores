@@ -1,0 +1,1874 @@
+[
+    {
+        "ID": "SKU-001",
+        "Producto": "Hub USB-C 5 en 1, Silencioso",
+        "Precio": "1281.76",
+        "Stock": "216"
+    },
+    {
+        "ID": "SKU-002",
+        "Producto": "Auriculares Bluetooth, Dual-Band",
+        "Precio": "743.81",
+        "Stock": "112"
+    },
+    {
+        "ID": "SKU-004",
+        "Producto": "Smartwatch Deportivo, USB-C",
+        "Precio": "644.93",
+        "Stock": "40"
+    },
+    {
+        "ID": "SKU-006",
+        "Producto": "Soporte para Laptop",
+        "Precio": "311.85",
+        "Stock": "359"
+    },
+    {
+        "ID": "SKU-007",
+        "Producto": "Base para celular",
+        "Precio": "1165.62",
+        "Stock": "112"
+    },
+    {
+        "ID": "SKU-008",
+        "Producto": "Base para celular, Alta Velocidad",
+        "Precio": "1047.69",
+        "Stock": "448"
+    },
+    {
+        "ID": "SKU-011",
+        "Producto": "Bluetooth Dongle, Profesional",
+        "Precio": "1169.34",
+        "Stock": "239"
+    },
+    {
+        "ID": "SKU-015",
+        "Producto": "Tablet 8\", Profesional USB-C",
+        "Precio": "36.00",
+        "Stock": "43"
+    },
+    {
+        "ID": "SKU-017",
+        "Producto": "Proyector 4K",
+        "Precio": "283.98",
+        "Stock": "224"
+    },
+    {
+        "ID": "SKU-020",
+        "Producto": "SSD 4TB, RGB Reforzado",
+        "Precio": "587.08",
+        "Stock": "442"
+    },
+    {
+        "ID": "SKU-025",
+        "Producto": "Lector NFC",
+        "Precio": "39.85",
+        "Stock": "296"
+    },
+    {
+        "ID": "SKU-026",
+        "Producto": "SSD externo 2TB, WiFi 6E Alta Velocidad",
+        "Precio": "939.82",
+        "Stock": "41"
+    },
+    {
+        "ID": "SKU-027",
+        "Producto": "SSD NVMe 500GB, Compacto",
+        "Precio": "1072.35",
+        "Stock": "20"
+    },
+    {
+        "ID": "SKU-028",
+        "Producto": "Teclado Gamer, WiFi 6E",
+        "Precio": "284.72",
+        "Stock": "234"
+    },
+    {
+        "ID": "SKU-029",
+        "Producto": "SSD 2TB",
+        "Precio": "969.99",
+        "Stock": "109"
+    },
+    {
+        "ID": "SKU-030",
+        "Producto": "Tablet Pro, USB-C",
+        "Precio": "204.99",
+        "Stock": "313"
+    },
+    {
+        "ID": "SKU-031",
+        "Producto": "SSD 128GB, Recargable Profesional",
+        "Precio": "146.55",
+        "Stock": "144"
+    },
+    {
+        "ID": "SKU-033",
+        "Producto": "Hub USB-C 5 en 1, Silencioso Alta Velocidad",
+        "Precio": "1418.86",
+        "Stock": "361"
+    },
+    {
+        "ID": "SKU-034",
+        "Producto": "Router WiFi 6 Pro, Profesional Compacto",
+        "Precio": "1158.45",
+        "Stock": "75"
+    },
+    {
+        "ID": "SKU-036",
+        "Producto": "Memoria USB 128GB, Negro Mate",
+        "Precio": "99.96",
+        "Stock": "451"
+    },
+    {
+        "ID": "SKU-037",
+        "Producto": "SSD 500GB, WiFi 6E",
+        "Precio": "72.94",
+        "Stock": "403"
+    },
+    {
+        "ID": "SKU-038",
+        "Producto": "Lector NFC, Alta Velocidad",
+        "Precio": "57.79",
+        "Stock": "114"
+    },
+    {
+        "ID": "SKU-039",
+        "Producto": "Monitor 27\" Full HD",
+        "Precio": "1145.80",
+        "Stock": "204"
+    },
+    {
+        "ID": "SKU-040",
+        "Producto": "Mouse Vertical",
+        "Precio": "146.53",
+        "Stock": "19"
+    },
+    {
+        "ID": "SKU-041",
+        "Producto": "Memoria USB 128GB, USB-C WiFi 6E",
+        "Precio": "21.40",
+        "Stock": "362"
+    },
+    {
+        "ID": "SKU-043",
+        "Producto": "Soporte Celular, Negro Mate WiFi 6E",
+        "Precio": "63.65",
+        "Stock": "315"
+    },
+    {
+        "ID": "SKU-045",
+        "Producto": "Mouse Vertical, Reforzado",
+        "Precio": "1098.65",
+        "Stock": "171"
+    },
+    {
+        "ID": "SKU-047",
+        "Producto": "Tablet 7\"",
+        "Precio": "456.94",
+        "Stock": "204"
+    },
+    {
+        "ID": "SKU-049",
+        "Producto": "Tablet 10\", Profesional Blanco",
+        "Precio": "657.41",
+        "Stock": "313"
+    },
+    {
+        "ID": "SKU-051",
+        "Producto": "Bluetooth Dongle, Silencioso",
+        "Precio": "264.15",
+        "Stock": "120"
+    },
+    {
+        "ID": "SKU-052",
+        "Producto": "Lector de Huellas, Compacto",
+        "Precio": "738.53",
+        "Stock": "169"
+    },
+    {
+        "ID": "SKU-054",
+        "Producto": "Monitor 27\", USB-C",
+        "Precio": "1276.75",
+        "Stock": "409"
+    },
+    {
+        "ID": "SKU-056",
+        "Producto": "Monitor Curvo 32\"",
+        "Precio": "37.34",
+        "Stock": "42"
+    },
+    {
+        "ID": "SKU-058",
+        "Producto": "Bluetooth Dongle",
+        "Precio": "228.17",
+        "Stock": "114"
+    },
+    {
+        "ID": "SKU-059",
+        "Producto": "SSD 128GB, Alta Velocidad",
+        "Precio": "115.97",
+        "Stock": "242"
+    },
+    {
+        "ID": "SKU-060",
+        "Producto": "Laptop Premium, Dual-Band",
+        "Precio": "22.35",
+        "Stock": "398"
+    },
+    {
+        "ID": "SKU-061",
+        "Producto": "Disco Duro Externo 2TB",
+        "Precio": "722.54",
+        "Stock": "482"
+    },
+    {
+        "ID": "SKU-065",
+        "Producto": "Hub 10 puertos",
+        "Precio": "22.34",
+        "Stock": "142"
+    },
+    {
+        "ID": "SKU-066",
+        "Producto": "Disco HDD 1TB, Blanco",
+        "Precio": "621.87",
+        "Stock": "108"
+    },
+    {
+        "ID": "SKU-067",
+        "Producto": "Altavoz Inteligente",
+        "Precio": "110.43",
+        "Stock": "43"
+    },
+    {
+        "ID": "SKU-068",
+        "Producto": "Mini PC",
+        "Precio": "23.12",
+        "Stock": "47"
+    },
+    {
+        "ID": "SKU-070",
+        "Producto": "Altavoz Inteligente",
+        "Precio": "983.69",
+        "Stock": "486"
+    },
+    {
+        "ID": "SKU-072",
+        "Producto": "Smartwatch Deportivo",
+        "Precio": "16.78",
+        "Stock": "498"
+    },
+    {
+        "ID": "SKU-073",
+        "Producto": "Tablet 10\", Premium Reforzado",
+        "Precio": "10.39",
+        "Stock": "129"
+    },
+    {
+        "ID": "SKU-074",
+        "Producto": "Monitor 27\", Compacto",
+        "Precio": "1004.44",
+        "Stock": "485"
+    },
+    {
+        "ID": "SKU-075",
+        "Producto": "Soporte Celular, RGB",
+        "Precio": "1057.98",
+        "Stock": "194"
+    },
+    {
+        "ID": "SKU-076",
+        "Producto": "Disco HDD 1TB",
+        "Precio": "16.81",
+        "Stock": "485"
+    },
+    {
+        "ID": "SKU-078",
+        "Producto": "Parlante RGB, Recargable Alta Velocidad",
+        "Precio": "281.69",
+        "Stock": "403"
+    },
+    {
+        "ID": "SKU-080",
+        "Producto": "Smartwatch Classic, Recargable Blanco",
+        "Precio": "868.47",
+        "Stock": "224"
+    },
+    {
+        "ID": "SKU-081",
+        "Producto": "Webcam HD 1080p, Negro Mate WiFi 6E",
+        "Precio": "1502.36",
+        "Stock": "486"
+    },
+    {
+        "ID": "SKU-083",
+        "Producto": "Teclado retroiluminado, Negro Mate",
+        "Precio": "27.95",
+        "Stock": "439"
+    },
+    {
+        "ID": "SKU-084",
+        "Producto": "Disco Duro Externo 2TB, Reforzado",
+        "Precio": "307.12",
+        "Stock": "129"
+    },
+    {
+        "ID": "SKU-085",
+        "Producto": "Tablet 8\", Metal",
+        "Precio": "35.54",
+        "Stock": "96"
+    },
+    {
+        "ID": "SKU-089",
+        "Producto": "Adaptador HDMI, Premium Metal",
+        "Precio": "425.08",
+        "Stock": "174"
+    },
+    {
+        "ID": "SKU-091",
+        "Producto": "Hub 10 puertos, WiFi 6E Metal",
+        "Precio": "65.74",
+        "Stock": "438"
+    },
+    {
+        "ID": "SKU-093",
+        "Producto": "Auriculares Bluetooth, WiFi 6E",
+        "Precio": "109.94",
+        "Stock": "209"
+    },
+    {
+        "ID": "SKU-094",
+        "Producto": "SSD 128GB",
+        "Precio": "9.47",
+        "Stock": "436"
+    },
+    {
+        "ID": "SKU-095",
+        "Producto": "Monitor 24\" Full HD",
+        "Precio": "1431.58",
+        "Stock": "18"
+    },
+    {
+        "ID": "SKU-096",
+        "Producto": "Teclado Gamer, Recargable",
+        "Precio": "39.92",
+        "Stock": "227"
+    },
+    {
+        "ID": "SKU-097",
+        "Producto": "Monitor Curvo 32\"",
+        "Precio": "43.68",
+        "Stock": "125"
+    },
+    {
+        "ID": "SKU-099",
+        "Producto": "Soporte para Laptop, Silencioso Blanco",
+        "Precio": "40.75",
+        "Stock": "37"
+    },
+    {
+        "ID": "SKU-100",
+        "Producto": "Adaptador Ethernet",
+        "Precio": "341.27",
+        "Stock": "101"
+    },
+    {
+        "ID": "SKU-101",
+        "Producto": "Smartwatch Pro",
+        "Precio": "10.52",
+        "Stock": "500"
+    },
+    {
+        "ID": "SKU-103",
+        "Producto": "Router Mesh",
+        "Precio": "104.15",
+        "Stock": "321"
+    },
+    {
+        "ID": "SKU-104",
+        "Producto": "Smartwatch Deportivo",
+        "Precio": "28.33",
+        "Stock": "465"
+    },
+    {
+        "ID": "SKU-106",
+        "Producto": "Monitor Curvo 32\", Reforzado",
+        "Precio": "38.92",
+        "Stock": "72"
+    },
+    {
+        "ID": "SKU-107",
+        "Producto": "Bluetooth Dongle",
+        "Precio": "345.39",
+        "Stock": "46"
+    },
+    {
+        "ID": "SKU-108",
+        "Producto": "Mini Drone, Profesional",
+        "Precio": "274.64",
+        "Stock": "55"
+    },
+    {
+        "ID": "SKU-110",
+        "Producto": "Lector NFC, Negro Mate",
+        "Precio": "43.63",
+        "Stock": "454"
+    },
+    {
+        "ID": "SKU-111",
+        "Producto": "Hub 10 puertos, Blanco",
+        "Precio": "115.95",
+        "Stock": "453"
+    },
+    {
+        "ID": "SKU-112",
+        "Producto": "Lector SD USB",
+        "Precio": "89.25",
+        "Stock": "227"
+    },
+    {
+        "ID": "SKU-113",
+        "Producto": "Adaptador Ethernet",
+        "Precio": "277.71",
+        "Stock": "31"
+    },
+    {
+        "ID": "SKU-114",
+        "Producto": "Mini Drone, Profesional",
+        "Precio": "38.32",
+        "Stock": "25"
+    },
+    {
+        "ID": "SKU-115",
+        "Producto": "Monitor 24\" Full HD, Premium",
+        "Precio": "56.42",
+        "Stock": "168"
+    },
+    {
+        "ID": "SKU-117",
+        "Producto": "Monitor 27\" Full HD, USB-C",
+        "Precio": "445.84",
+        "Stock": "269"
+    },
+    {
+        "ID": "SKU-121",
+        "Producto": "Teclado Gamer",
+        "Precio": "1217.60",
+        "Stock": "220"
+    },
+    {
+        "ID": "SKU-122",
+        "Producto": "Smartwatch Deportivo",
+        "Precio": "653.23",
+        "Stock": "231"
+    },
+    {
+        "ID": "SKU-123",
+        "Producto": "Soporte para Laptop, Blanco Metal",
+        "Precio": "47.61",
+        "Stock": "351"
+    },
+    {
+        "ID": "SKU-124",
+        "Producto": "SSD 256GB, Compacto",
+        "Precio": "1289.46",
+        "Stock": "489"
+    },
+    {
+        "ID": "SKU-125",
+        "Producto": "Smartband, Profesional Negro Mate",
+        "Precio": "292.57",
+        "Stock": "307"
+    },
+    {
+        "ID": "SKU-126",
+        "Producto": "Smartwatch Classic, Dual-Band",
+        "Precio": "12.11",
+        "Stock": "390"
+    },
+    {
+        "ID": "SKU-129",
+        "Producto": "Proyector LED, Metal Negro Mate",
+        "Precio": "1558.99",
+        "Stock": "43"
+    },
+    {
+        "ID": "SKU-130",
+        "Producto": "Tablet 10\", Alta Velocidad",
+        "Precio": "272.25",
+        "Stock": "110"
+    },
+    {
+        "ID": "SKU-131",
+        "Producto": "Bluetooth Dongle, USB-C Negro Mate",
+        "Precio": "94.26",
+        "Stock": "202"
+    },
+    {
+        "ID": "SKU-132",
+        "Producto": "Base Refrigerante, Dual-Band",
+        "Precio": "16.95",
+        "Stock": "254"
+    },
+    {
+        "ID": "SKU-133",
+        "Producto": "Proyector LED, Premium Metal",
+        "Precio": "717.43",
+        "Stock": "441"
+    },
+    {
+        "ID": "SKU-139",
+        "Producto": "Mini Proyector, WiFi 6E WiFi 6E",
+        "Precio": "11.98",
+        "Stock": "180"
+    },
+    {
+        "ID": "SKU-140",
+        "Producto": "Tablet Pro, Blanco",
+        "Precio": "21.91",
+        "Stock": "314"
+    },
+    {
+        "ID": "SKU-141",
+        "Producto": "Base Refrigerante, Blanco Alta Velocidad",
+        "Precio": "104.79",
+        "Stock": "490"
+    },
+    {
+        "ID": "SKU-142",
+        "Producto": "Disco SSD 1TB, WiFi 6E Compacto",
+        "Precio": "1207.60",
+        "Stock": "312"
+    },
+    {
+        "ID": "SKU-143",
+        "Producto": "Disco Duro Externo 2TB, Recargable",
+        "Precio": "276.15",
+        "Stock": "33"
+    },
+    {
+        "ID": "SKU-144",
+        "Producto": "Monitor 24\" Full HD, Metal",
+        "Precio": "271.01",
+        "Stock": "41"
+    },
+    {
+        "ID": "SKU-145",
+        "Producto": "Mini Proyector",
+        "Precio": "37.25",
+        "Stock": "158"
+    },
+    {
+        "ID": "SKU-146",
+        "Producto": "Smartband, WiFi 6E",
+        "Precio": "1379.79",
+        "Stock": "47"
+    },
+    {
+        "ID": "SKU-147",
+        "Producto": "Smartwatch Plus",
+        "Precio": "873.14",
+        "Stock": "98"
+    },
+    {
+        "ID": "SKU-148",
+        "Producto": "Silla Gamer",
+        "Precio": "1277.84",
+        "Stock": "19"
+    },
+    {
+        "ID": "SKU-149",
+        "Producto": "Monitor 21\", Premium",
+        "Precio": "52.34",
+        "Stock": "369"
+    },
+    {
+        "ID": "SKU-150",
+        "Producto": "Adaptador Ethernet, USB-C",
+        "Precio": "506.71",
+        "Stock": "119"
+    },
+    {
+        "ID": "SKU-151",
+        "Producto": "Hub 10 puertos, Reforzado",
+        "Precio": "276.01",
+        "Stock": "398"
+    },
+    {
+        "ID": "SKU-153",
+        "Producto": "Memoria USB 128GB",
+        "Precio": "1214.52",
+        "Stock": "75"
+    },
+    {
+        "ID": "SKU-155",
+        "Producto": "Smartwatch Pro",
+        "Precio": "42.26",
+        "Stock": "70"
+    },
+    {
+        "ID": "SKU-156",
+        "Producto": "Auriculares Bluetooth, Reforzado",
+        "Precio": "29.97",
+        "Stock": "9"
+    },
+    {
+        "ID": "SKU-157",
+        "Producto": "Bocinas Bluetooth, Premium",
+        "Precio": "241.39",
+        "Stock": "62"
+    },
+    {
+        "ID": "SKU-158",
+        "Producto": "Tablet 10\", Blanco",
+        "Precio": "1342.37",
+        "Stock": "123"
+    },
+    {
+        "ID": "SKU-164",
+        "Producto": "Auriculares Bluetooth",
+        "Precio": "13.31",
+        "Stock": "409"
+    },
+    {
+        "ID": "SKU-166",
+        "Producto": "Webcam HD 1080p",
+        "Precio": "9.60",
+        "Stock": "167"
+    },
+    {
+        "ID": "SKU-167",
+        "Producto": "Monitor 21\", Blanco",
+        "Precio": "278.65",
+        "Stock": "314"
+    },
+    {
+        "ID": "SKU-171",
+        "Producto": "SSD 128GB, Profesional",
+        "Precio": "239.08",
+        "Stock": "360"
+    },
+    {
+        "ID": "SKU-172",
+        "Producto": "Disco HDD 1TB, Recargable",
+        "Precio": "119.89",
+        "Stock": "460"
+    },
+    {
+        "ID": "SKU-175",
+        "Producto": "USB 64GB, USB-C",
+        "Precio": "836.34",
+        "Stock": "367"
+    },
+    {
+        "ID": "SKU-177",
+        "Producto": "Mouse Pad Gamer XL",
+        "Precio": "32.75",
+        "Stock": "425"
+    },
+    {
+        "ID": "SKU-179",
+        "Producto": "Webcam HD 1080p, Silencioso",
+        "Precio": "1018.05",
+        "Stock": "78"
+    },
+    {
+        "ID": "SKU-180",
+        "Producto": "Monitor Curvo 32\"",
+        "Precio": "30.78",
+        "Stock": "41"
+    },
+    {
+        "ID": "SKU-183",
+        "Producto": "Lector SD USB, Dual-Band WiFi 6E",
+        "Precio": "753.81",
+        "Stock": "66"
+    },
+    {
+        "ID": "SKU-185",
+        "Producto": "Smartwatch Pro",
+        "Precio": "327.53",
+        "Stock": "97"
+    },
+    {
+        "ID": "SKU-187",
+        "Producto": "Mini Proyector, Alta Velocidad",
+        "Precio": "16.28",
+        "Stock": "433"
+    },
+    {
+        "ID": "SKU-188",
+        "Producto": "Memoria USB 128GB, Silencioso USB-C",
+        "Precio": "1036.26",
+        "Stock": "147"
+    },
+    {
+        "ID": "SKU-189",
+        "Producto": "Router WiFi 6, Blanco",
+        "Precio": "32.23",
+        "Stock": "201"
+    },
+    {
+        "ID": "SKU-192",
+        "Producto": "Disco Duro Externo 2TB, Recargable",
+        "Precio": "619.42",
+        "Stock": "417"
+    },
+    {
+        "ID": "SKU-194",
+        "Producto": "SSD 256GB, RGB",
+        "Precio": "695.96",
+        "Stock": "75"
+    },
+    {
+        "ID": "SKU-195",
+        "Producto": "Base para celular, Profesional",
+        "Precio": "1042.72",
+        "Stock": "396"
+    },
+    {
+        "ID": "SKU-196",
+        "Producto": "Tablet 7\"",
+        "Precio": "134.32",
+        "Stock": "339"
+    },
+    {
+        "ID": "SKU-198",
+        "Producto": "Monitor 27\", RGB",
+        "Precio": "63.88",
+        "Stock": "353"
+    },
+    {
+        "ID": "SKU-200",
+        "Producto": "Mini Drone",
+        "Precio": "186.80",
+        "Stock": "473"
+    },
+    {
+        "ID": "SKU-201",
+        "Producto": "Adaptador Ethernet",
+        "Precio": "310.43",
+        "Stock": "70"
+    },
+    {
+        "ID": "SKU-202",
+        "Producto": "Memoria USB 128GB",
+        "Precio": "26.37",
+        "Stock": "51"
+    },
+    {
+        "ID": "SKU-203",
+        "Producto": "SSD 500GB, Reforzado",
+        "Precio": "652.69",
+        "Stock": "334"
+    },
+    {
+        "ID": "SKU-204",
+        "Producto": "SSD 256GB, Dual-Band Recargable",
+        "Precio": "1301.89",
+        "Stock": "378"
+    },
+    {
+        "ID": "SKU-206",
+        "Producto": "Mini Drone",
+        "Precio": "320.63",
+        "Stock": "290"
+    },
+    {
+        "ID": "SKU-208",
+        "Producto": "Lector de Huellas, Profesional",
+        "Precio": "269.11",
+        "Stock": "404"
+    },
+    {
+        "ID": "SKU-210",
+        "Producto": "Smartwatch Deportivo, Premium",
+        "Precio": "121.57",
+        "Stock": "488"
+    },
+    {
+        "ID": "SKU-212",
+        "Producto": "Base para celular, Recargable Profesional",
+        "Precio": "471.47",
+        "Stock": "78"
+    },
+    {
+        "ID": "SKU-213",
+        "Producto": "Soporte Monitor",
+        "Precio": "73.27",
+        "Stock": "390"
+    },
+    {
+        "ID": "SKU-214",
+        "Producto": "Adaptador HDMI",
+        "Precio": "1153.25",
+        "Stock": "57"
+    },
+    {
+        "ID": "SKU-215",
+        "Producto": "Disco SSD 1TB",
+        "Precio": "440.50",
+        "Stock": "59"
+    },
+    {
+        "ID": "SKU-216",
+        "Producto": "Base para celular, Reforzado",
+        "Precio": "599.39",
+        "Stock": "288"
+    },
+    {
+        "ID": "SKU-219",
+        "Producto": "Cargador USB-C, Metal Metal",
+        "Precio": "9.65",
+        "Stock": "91"
+    },
+    {
+        "ID": "SKU-220",
+        "Producto": "Hub 10 puertos, Premium",
+        "Precio": "1108.85",
+        "Stock": "217"
+    },
+    {
+        "ID": "SKU-221",
+        "Producto": "Hub 10 puertos, RGB",
+        "Precio": "15.17",
+        "Stock": "16"
+    },
+    {
+        "ID": "SKU-223",
+        "Producto": "SSD externo 2TB, Blanco",
+        "Precio": "318.66",
+        "Stock": "119"
+    },
+    {
+        "ID": "SKU-225",
+        "Producto": "Cable HDMI 2m",
+        "Precio": "622.59",
+        "Stock": "402"
+    },
+    {
+        "ID": "SKU-226",
+        "Producto": "Teclado compacto, Negro Mate",
+        "Precio": "63.99",
+        "Stock": "153"
+    },
+    {
+        "ID": "SKU-229",
+        "Producto": "Mouse Vertical",
+        "Precio": "45.82",
+        "Stock": "245"
+    },
+    {
+        "ID": "SKU-231",
+        "Producto": "Bluetooth Dongle, RGB Dual-Band",
+        "Precio": "193.97",
+        "Stock": "157"
+    },
+    {
+        "ID": "SKU-233",
+        "Producto": "SSD 2TB, RGB Premium",
+        "Precio": "84.26",
+        "Stock": "168"
+    },
+    {
+        "ID": "SKU-234",
+        "Producto": "Soporte para Laptop, RGB",
+        "Precio": "491.53",
+        "Stock": "235"
+    },
+    {
+        "ID": "SKU-235",
+        "Producto": "Monitor Curvo 32\"",
+        "Precio": "18.62",
+        "Stock": "268"
+    },
+    {
+        "ID": "SKU-236",
+        "Producto": "Auriculares Bluetooth",
+        "Precio": "105.44",
+        "Stock": "34"
+    },
+    {
+        "ID": "SKU-241",
+        "Producto": "SSD 128GB",
+        "Precio": "70.34",
+        "Stock": "42"
+    },
+    {
+        "ID": "SKU-242",
+        "Producto": "USB 64GB",
+        "Precio": "28.28",
+        "Stock": "117"
+    },
+    {
+        "ID": "SKU-243",
+        "Producto": "Proyector 4K",
+        "Precio": "182.35",
+        "Stock": "460"
+    },
+    {
+        "ID": "SKU-245",
+        "Producto": "Router WiFi 6, RGB",
+        "Precio": "107.96",
+        "Stock": "404"
+    },
+    {
+        "ID": "SKU-246",
+        "Producto": "Parlante RGB",
+        "Precio": "132.35",
+        "Stock": "309"
+    },
+    {
+        "ID": "SKU-248",
+        "Producto": "Soporte para Laptop, Metal",
+        "Precio": "94.38",
+        "Stock": "365"
+    },
+    {
+        "ID": "SKU-249",
+        "Producto": "Router WiFi 6, Premium",
+        "Precio": "19.54",
+        "Stock": "2"
+    },
+    {
+        "ID": "SKU-250",
+        "Producto": "Smartwatch Classic, Silencioso Profesional",
+        "Precio": "11.37",
+        "Stock": "45"
+    },
+    {
+        "ID": "SKU-251",
+        "Producto": "Altavoz Inteligente, WiFi 6E Metal",
+        "Precio": "73.10",
+        "Stock": "292"
+    },
+    {
+        "ID": "SKU-253",
+        "Producto": "Soporte Celular, Compacto USB-C",
+        "Precio": "15.31",
+        "Stock": "69"
+    },
+    {
+        "ID": "SKU-254",
+        "Producto": "Soporte Celular, Metal",
+        "Precio": "1134.32",
+        "Stock": "69"
+    },
+    {
+        "ID": "SKU-255",
+        "Producto": "Soporte Celular, Dual-Band",
+        "Precio": "525.53",
+        "Stock": "495"
+    },
+    {
+        "ID": "SKU-256",
+        "Producto": "SSD 4TB",
+        "Precio": "62.42",
+        "Stock": "303"
+    },
+    {
+        "ID": "SKU-258",
+        "Producto": "SSD 500GB",
+        "Precio": "434.78",
+        "Stock": "37"
+    },
+    {
+        "ID": "SKU-259",
+        "Producto": "Disco HDD 1TB",
+        "Precio": "1384.20",
+        "Stock": "18"
+    },
+    {
+        "ID": "SKU-261",
+        "Producto": "Smartwatch Plus",
+        "Precio": "881.75",
+        "Stock": "54"
+    },
+    {
+        "ID": "SKU-267",
+        "Producto": "Monitor 27\" Full HD",
+        "Precio": "218.80",
+        "Stock": "385"
+    },
+    {
+        "ID": "SKU-270",
+        "Producto": "Altavoz Inteligente",
+        "Precio": "27.37",
+        "Stock": "344"
+    },
+    {
+        "ID": "SKU-273",
+        "Producto": "Altavoz Inteligente",
+        "Precio": "658.87",
+        "Stock": "350"
+    },
+    {
+        "ID": "SKU-275",
+        "Producto": "Router Mesh, Blanco",
+        "Precio": "233.92",
+        "Stock": "396"
+    },
+    {
+        "ID": "SKU-277",
+        "Producto": "SSD externo 2TB",
+        "Precio": "31.79",
+        "Stock": "224"
+    },
+    {
+        "ID": "SKU-279",
+        "Producto": "Tablet 7\", Dual-Band",
+        "Precio": "104.44",
+        "Stock": "165"
+    },
+    {
+        "ID": "SKU-281",
+        "Producto": "Disco SSD 1TB",
+        "Precio": "50.15",
+        "Stock": "389"
+    },
+    {
+        "ID": "SKU-282",
+        "Producto": "Mouse Vertical, Premium",
+        "Precio": "26.06",
+        "Stock": "206"
+    },
+    {
+        "ID": "SKU-284",
+        "Producto": "Soporte Monitor",
+        "Precio": "108.01",
+        "Stock": "253"
+    },
+    {
+        "ID": "SKU-285",
+        "Producto": "Lector de Huellas, Recargable",
+        "Precio": "18.15",
+        "Stock": "23"
+    },
+    {
+        "ID": "SKU-286",
+        "Producto": "Smartwatch Deportivo",
+        "Precio": "436.89",
+        "Stock": "103"
+    },
+    {
+        "ID": "SKU-287",
+        "Producto": "Parlante RGB",
+        "Precio": "321.12",
+        "Stock": "128"
+    },
+    {
+        "ID": "SKU-289",
+        "Producto": "Smartwatch Deportivo, Reforzado",
+        "Precio": "239.47",
+        "Stock": "418"
+    },
+    {
+        "ID": "SKU-291",
+        "Producto": "SSD 2TB, Recargable",
+        "Precio": "101.88",
+        "Stock": "35"
+    },
+    {
+        "ID": "SKU-293",
+        "Producto": "Proyector 4K, Profesional",
+        "Precio": "49.85",
+        "Stock": "126"
+    },
+    {
+        "ID": "SKU-294",
+        "Producto": "Teclado retroiluminado",
+        "Precio": "15.19",
+        "Stock": "434"
+    },
+    {
+        "ID": "SKU-295",
+        "Producto": "Monitor 21\"",
+        "Precio": "88.55",
+        "Stock": "253"
+    },
+    {
+        "ID": "SKU-296",
+        "Producto": "Smartwatch Pro, Reforzado",
+        "Precio": "324.41",
+        "Stock": "67"
+    },
+    {
+        "ID": "SKU-297",
+        "Producto": "Smartwatch Pro",
+        "Precio": "25.76",
+        "Stock": "8"
+    },
+    {
+        "ID": "SKU-298",
+        "Producto": "Cable HDMI 2m, Silencioso",
+        "Precio": "1100.54",
+        "Stock": "392"
+    },
+    {
+        "ID": "SKU-299",
+        "Producto": "Lector SD USB, Metal Compacto",
+        "Precio": "83.01",
+        "Stock": "498"
+    },
+    {
+        "ID": "SKU-300",
+        "Producto": "Kit de Herramientas PC, Metal Compacto",
+        "Precio": "481.25",
+        "Stock": "59"
+    },
+    {
+        "ID": "SKU-301",
+        "Producto": "Soporte Monitor",
+        "Precio": "93.29",
+        "Stock": "359"
+    },
+    {
+        "ID": "SKU-304",
+        "Producto": "Router WiFi 6, USB-C Alta Velocidad",
+        "Precio": "972.03",
+        "Stock": "345"
+    },
+    {
+        "ID": "SKU-306",
+        "Producto": "Auriculares Bluetooth, Negro Mate RGB",
+        "Precio": "285.67",
+        "Stock": "61"
+    },
+    {
+        "ID": "SKU-307",
+        "Producto": "Tablet Pro",
+        "Precio": "375.26",
+        "Stock": "443"
+    },
+    {
+        "ID": "SKU-308",
+        "Producto": "Router Mesh",
+        "Precio": "225.05",
+        "Stock": "378"
+    },
+    {
+        "ID": "SKU-309",
+        "Producto": "Teclado Gamer, USB-C",
+        "Precio": "79.47",
+        "Stock": "77"
+    },
+    {
+        "ID": "SKU-312",
+        "Producto": "Disco SSD 1TB",
+        "Precio": "477.31",
+        "Stock": "358"
+    },
+    {
+        "ID": "SKU-315",
+        "Producto": "Mouse Gamer RGB, Profesional",
+        "Precio": "53.15",
+        "Stock": "231"
+    },
+    {
+        "ID": "SKU-316",
+        "Producto": "Smartwatch Classic, Profesional Compacto",
+        "Precio": "310.07",
+        "Stock": "75"
+    },
+    {
+        "ID": "SKU-319",
+        "Producto": "Disco SSD 1TB",
+        "Precio": "39.42",
+        "Stock": "298"
+    },
+    {
+        "ID": "SKU-320",
+        "Producto": "Cable HDMI 2m, Compacto",
+        "Precio": "327.57",
+        "Stock": "62"
+    },
+    {
+        "ID": "SKU-322",
+        "Producto": "Router WiFi 6 Pro, Dual-Band",
+        "Precio": "1329.87",
+        "Stock": "125"
+    },
+    {
+        "ID": "SKU-323",
+        "Producto": "Smartwatch Plus, Negro Mate",
+        "Precio": "1193.46",
+        "Stock": "127"
+    },
+    {
+        "ID": "SKU-325",
+        "Producto": "Lector de CD externo, Metal Silencioso",
+        "Precio": "12.93",
+        "Stock": "414"
+    },
+    {
+        "ID": "SKU-327",
+        "Producto": "Silla Gamer, Metal USB-C",
+        "Precio": "159.95",
+        "Stock": "467"
+    },
+    {
+        "ID": "SKU-328",
+        "Producto": "Cable HDMI 2m, USB-C",
+        "Precio": "453.53",
+        "Stock": "277"
+    },
+    {
+        "ID": "SKU-329",
+        "Producto": "Smartwatch Classic, Alta Velocidad",
+        "Precio": "900.48",
+        "Stock": "103"
+    },
+    {
+        "ID": "SKU-333",
+        "Producto": "Tablet 7\"",
+        "Precio": "87.12",
+        "Stock": "90"
+    },
+    {
+        "ID": "SKU-335",
+        "Producto": "Hub USB-C 5 en 1, Reforzado Premium",
+        "Precio": "17.93",
+        "Stock": "420"
+    },
+    {
+        "ID": "SKU-337",
+        "Producto": "Memoria USB 128GB",
+        "Precio": "441.49",
+        "Stock": "179"
+    },
+    {
+        "ID": "SKU-340",
+        "Producto": "Base Refrigerante",
+        "Precio": "709.50",
+        "Stock": "80"
+    },
+    {
+        "ID": "SKU-341",
+        "Producto": "Tablet 10\", Dual-Band",
+        "Precio": "247.45",
+        "Stock": "152"
+    },
+    {
+        "ID": "SKU-342",
+        "Producto": "Mini PC, Metal",
+        "Precio": "155.33",
+        "Stock": "421"
+    },
+    {
+        "ID": "SKU-343",
+        "Producto": "Monitor 21\"",
+        "Precio": "701.00",
+        "Stock": "432"
+    },
+    {
+        "ID": "SKU-345",
+        "Producto": "Cargador USB-C, Blanco",
+        "Precio": "75.18",
+        "Stock": "385"
+    },
+    {
+        "ID": "SKU-346",
+        "Producto": "Lector NFC",
+        "Precio": "1312.81",
+        "Stock": "31"
+    },
+    {
+        "ID": "SKU-347",
+        "Producto": "Smartwatch Pro",
+        "Precio": "611.15",
+        "Stock": "153"
+    },
+    {
+        "ID": "SKU-348",
+        "Producto": "Webcam HD 1080p, Alta Velocidad",
+        "Precio": "23.57",
+        "Stock": "486"
+    },
+    {
+        "ID": "SKU-350",
+        "Producto": "Base Refrigerante, Compacto",
+        "Precio": "9.87",
+        "Stock": "402"
+    },
+    {
+        "ID": "SKU-351",
+        "Producto": "Lector NFC",
+        "Precio": "24.24",
+        "Stock": "473"
+    },
+    {
+        "ID": "SKU-352",
+        "Producto": "Memoria USB 128GB, Profesional Recargable",
+        "Precio": "1358.35",
+        "Stock": "311"
+    },
+    {
+        "ID": "SKU-353",
+        "Producto": "SSD 256GB, Silencioso",
+        "Precio": "276.59",
+        "Stock": "353"
+    },
+    {
+        "ID": "SKU-354",
+        "Producto": "Mini PC, Reforzado",
+        "Precio": "124.65",
+        "Stock": "431"
+    },
+    {
+        "ID": "SKU-358",
+        "Producto": "Laptop Ultrabook",
+        "Precio": "44.61",
+        "Stock": "140"
+    },
+    {
+        "ID": "SKU-363",
+        "Producto": "Smartwatch Classic",
+        "Precio": "62.03",
+        "Stock": "238"
+    },
+    {
+        "ID": "SKU-364",
+        "Producto": "Soporte Celular",
+        "Precio": "143.53",
+        "Stock": "287"
+    },
+    {
+        "ID": "SKU-365",
+        "Producto": "Smartwatch Plus, Recargable Recargable",
+        "Precio": "197.35",
+        "Stock": "133"
+    },
+    {
+        "ID": "SKU-366",
+        "Producto": "SSD 128GB",
+        "Precio": "1529.78",
+        "Stock": "206"
+    },
+    {
+        "ID": "SKU-367",
+        "Producto": "Monitor 21\", Premium",
+        "Precio": "492.68",
+        "Stock": "377"
+    },
+    {
+        "ID": "SKU-368",
+        "Producto": "Auriculares Bluetooth, Dual-Band WiFi 6E",
+        "Precio": "242.97",
+        "Stock": "259"
+    },
+    {
+        "ID": "SKU-369",
+        "Producto": "Soporte Celular",
+        "Precio": "161.66",
+        "Stock": "371"
+    },
+    {
+        "ID": "SKU-370",
+        "Producto": "Smartband",
+        "Precio": "197.20",
+        "Stock": "215"
+    },
+    {
+        "ID": "SKU-371",
+        "Producto": "Monitor 24\" Full HD, Recargable",
+        "Precio": "1306.22",
+        "Stock": "36"
+    },
+    {
+        "ID": "SKU-372",
+        "Producto": "SSD 256GB",
+        "Precio": "109.40",
+        "Stock": "70"
+    },
+    {
+        "ID": "SKU-373",
+        "Producto": "Mouse Gamer RGB, Blanco",
+        "Precio": "108.99",
+        "Stock": "160"
+    },
+    {
+        "ID": "SKU-374",
+        "Producto": "Hub USB-C 5 en 1, Blanco",
+        "Precio": "16.03",
+        "Stock": "66"
+    },
+    {
+        "ID": "SKU-375",
+        "Producto": "Tablet 7\", Negro Mate Metal",
+        "Precio": "21.16",
+        "Stock": "456"
+    },
+    {
+        "ID": "SKU-376",
+        "Producto": "Tablet 8\"",
+        "Precio": "120.95",
+        "Stock": "159"
+    },
+    {
+        "ID": "SKU-377",
+        "Producto": "Mouse Pad Gamer XL, Recargable",
+        "Precio": "1409.48",
+        "Stock": "268"
+    },
+    {
+        "ID": "SKU-378",
+        "Producto": "Mouse Bluetooth, Premium WiFi 6E",
+        "Precio": "440.69",
+        "Stock": "9"
+    },
+    {
+        "ID": "SKU-379",
+        "Producto": "Soporte para Laptop, Premium",
+        "Precio": "13.97",
+        "Stock": "192"
+    },
+    {
+        "ID": "SKU-380",
+        "Producto": "Hub USB-C 5 en 1, Alta Velocidad",
+        "Precio": "26.60",
+        "Stock": "213"
+    },
+    {
+        "ID": "SKU-381",
+        "Producto": "Adaptador Ethernet, Silencioso",
+        "Precio": "22.66",
+        "Stock": "339"
+    },
+    {
+        "ID": "SKU-383",
+        "Producto": "Mouse Gamer RGB",
+        "Precio": "106.52",
+        "Stock": "20"
+    },
+    {
+        "ID": "SKU-389",
+        "Producto": "Lector SD USB",
+        "Precio": "49.04",
+        "Stock": "53"
+    },
+    {
+        "ID": "SKU-390",
+        "Producto": "Lector SD USB",
+        "Precio": "1445.42",
+        "Stock": "14"
+    },
+    {
+        "ID": "SKU-391",
+        "Producto": "Base para celular",
+        "Precio": "618.47",
+        "Stock": "23"
+    },
+    {
+        "ID": "SKU-393",
+        "Producto": "Laptop Premium",
+        "Precio": "588.07",
+        "Stock": "177"
+    },
+    {
+        "ID": "SKU-394",
+        "Producto": "Monitor 21\"",
+        "Precio": "107.12",
+        "Stock": "258"
+    },
+    {
+        "ID": "SKU-395",
+        "Producto": "SSD 256GB",
+        "Precio": "35.69",
+        "Stock": "259"
+    },
+    {
+        "ID": "SKU-396",
+        "Producto": "Silla Gamer, Metal Metal",
+        "Precio": "665.17",
+        "Stock": "228"
+    },
+    {
+        "ID": "SKU-397",
+        "Producto": "SSD 2TB, Reforzado",
+        "Precio": "31.59",
+        "Stock": "405"
+    },
+    {
+        "ID": "SKU-399",
+        "Producto": "Tablet 10\"",
+        "Precio": "296.51",
+        "Stock": "366"
+    },
+    {
+        "ID": "SKU-400",
+        "Producto": "Disco HDD 1TB, RGB",
+        "Precio": "265.74",
+        "Stock": "359"
+    },
+    {
+        "ID": "SKU-403",
+        "Producto": "Hub USB-C 5 en 1",
+        "Precio": "101.77",
+        "Stock": "493"
+    },
+    {
+        "ID": "SKU-404",
+        "Producto": "USB 64GB, Alta Velocidad",
+        "Precio": "74.62",
+        "Stock": "354"
+    },
+    {
+        "ID": "SKU-405",
+        "Producto": "Mini Proyector, Premium",
+        "Precio": "527.01",
+        "Stock": "311"
+    },
+    {
+        "ID": "SKU-406",
+        "Producto": "Parlante RGB",
+        "Precio": "599.07",
+        "Stock": "308"
+    },
+    {
+        "ID": "SKU-407",
+        "Producto": "Lector NFC",
+        "Precio": "1415.77",
+        "Stock": "323"
+    },
+    {
+        "ID": "SKU-408",
+        "Producto": "Proyector 4K, Recargable",
+        "Precio": "113.70",
+        "Stock": "257"
+    },
+    {
+        "ID": "SKU-410",
+        "Producto": "Proyector LED",
+        "Precio": "357.02",
+        "Stock": "74"
+    },
+    {
+        "ID": "SKU-411",
+        "Producto": "Tablet 10\"",
+        "Precio": "13.60",
+        "Stock": "353"
+    },
+    {
+        "ID": "SKU-413",
+        "Producto": "Smartwatch Plus, RGB Recargable",
+        "Precio": "207.76",
+        "Stock": "494"
+    },
+    {
+        "ID": "SKU-415",
+        "Producto": "Cable HDMI 2m, Dual-Band Dual-Band",
+        "Precio": "1021.66",
+        "Stock": "61"
+    },
+    {
+        "ID": "SKU-416",
+        "Producto": "Cargador USB-C, Silencioso",
+        "Precio": "50.41",
+        "Stock": "20"
+    },
+    {
+        "ID": "SKU-417",
+        "Producto": "Kit de Herramientas PC",
+        "Precio": "1110.81",
+        "Stock": "281"
+    },
+    {
+        "ID": "SKU-418",
+        "Producto": "Altavoz Inteligente, WiFi 6E",
+        "Precio": "1011.56",
+        "Stock": "274"
+    },
+    {
+        "ID": "SKU-420",
+        "Producto": "SSD 256GB",
+        "Precio": "1211.97",
+        "Stock": "470"
+    },
+    {
+        "ID": "SKU-421",
+        "Producto": "Teclado Gamer, Alta Velocidad",
+        "Precio": "1170.11",
+        "Stock": "370"
+    },
+    {
+        "ID": "SKU-422",
+        "Producto": "Router Mesh, USB-C",
+        "Precio": "231.97",
+        "Stock": "263"
+    },
+    {
+        "ID": "SKU-423",
+        "Producto": "Webcam HD 1080p",
+        "Precio": "116.50",
+        "Stock": "442"
+    },
+    {
+        "ID": "SKU-424",
+        "Producto": "Base para celular, Profesional Dual-Band",
+        "Precio": "24.75",
+        "Stock": "382"
+    },
+    {
+        "ID": "SKU-425",
+        "Producto": "Base para celular, Blanco",
+        "Precio": "30.66",
+        "Stock": "294"
+    },
+    {
+        "ID": "SKU-426",
+        "Producto": "Soporte para Laptop",
+        "Precio": "20.45",
+        "Stock": "273"
+    },
+    {
+        "ID": "SKU-427",
+        "Producto": "Laptop Gamer",
+        "Precio": "950.81",
+        "Stock": "54"
+    },
+    {
+        "ID": "SKU-429",
+        "Producto": "Disco Duro Externo 2TB, Premium Metal",
+        "Precio": "187.85",
+        "Stock": "490"
+    },
+    {
+        "ID": "SKU-431",
+        "Producto": "SSD externo 2TB",
+        "Precio": "73.01",
+        "Stock": "315"
+    },
+    {
+        "ID": "SKU-433",
+        "Producto": "Smartwatch Plus, Recargable Compacto",
+        "Precio": "55.79",
+        "Stock": "51"
+    },
+    {
+        "ID": "SKU-434",
+        "Producto": "Router Mesh",
+        "Precio": "1113.97",
+        "Stock": "78"
+    },
+    {
+        "ID": "SKU-435",
+        "Producto": "Lector de CD externo, WiFi 6E Negro Mate",
+        "Precio": "300.70",
+        "Stock": "430"
+    },
+    {
+        "ID": "SKU-438",
+        "Producto": "Router WiFi 6",
+        "Precio": "90.53",
+        "Stock": "464"
+    },
+    {
+        "ID": "SKU-439",
+        "Producto": "Auriculares Bluetooth, Reforzado Premium",
+        "Precio": "753.27",
+        "Stock": "256"
+    },
+    {
+        "ID": "SKU-442",
+        "Producto": "Altavoz Inteligente, Reforzado",
+        "Precio": "173.82",
+        "Stock": "198"
+    },
+    {
+        "ID": "SKU-443",
+        "Producto": "SSD 256GB",
+        "Precio": "269.16",
+        "Stock": "427"
+    },
+    {
+        "ID": "SKU-445",
+        "Producto": "Silla Gamer, USB-C USB-C",
+        "Precio": "78.57",
+        "Stock": "117"
+    },
+    {
+        "ID": "SKU-446",
+        "Producto": "Router WiFi 6, Silencioso Dual-Band",
+        "Precio": "799.33",
+        "Stock": "415"
+    },
+    {
+        "ID": "SKU-447",
+        "Producto": "Monitor 24\" Full HD",
+        "Precio": "22.89",
+        "Stock": "124"
+    },
+    {
+        "ID": "SKU-450",
+        "Producto": "SSD 500GB",
+        "Precio": "161.83",
+        "Stock": "472"
+    },
+    {
+        "ID": "SKU-451",
+        "Producto": "Soporte Monitor, Compacto RGB",
+        "Precio": "637.49",
+        "Stock": "423"
+    },
+    {
+        "ID": "SKU-452",
+        "Producto": "Kit de Herramientas PC",
+        "Precio": "12.85",
+        "Stock": "47"
+    },
+    {
+        "ID": "SKU-453",
+        "Producto": "Monitor 27\"",
+        "Precio": "865.75",
+        "Stock": "267"
+    },
+    {
+        "ID": "SKU-454",
+        "Producto": "Lector SD USB, Alta Velocidad",
+        "Precio": "335.84",
+        "Stock": "301"
+    },
+    {
+        "ID": "SKU-455",
+        "Producto": "SSD externo 2TB",
+        "Precio": "34.63",
+        "Stock": "145"
+    },
+    {
+        "ID": "SKU-456",
+        "Producto": "Base Refrigerante",
+        "Precio": "20.49",
+        "Stock": "266"
+    },
+    {
+        "ID": "SKU-457",
+        "Producto": "Laptop Gamer, Dual-Band",
+        "Precio": "203.32",
+        "Stock": "133"
+    },
+    {
+        "ID": "SKU-458",
+        "Producto": "Hub 10 puertos, USB-C Silencioso",
+        "Precio": "71.80",
+        "Stock": "189"
+    },
+    {
+        "ID": "SKU-459",
+        "Producto": "Smartband, Silencioso Recargable",
+        "Precio": "26.06",
+        "Stock": "382"
+    },
+    {
+        "ID": "SKU-461",
+        "Producto": "Smartwatch Pro",
+        "Precio": "7.17",
+        "Stock": "134"
+    },
+    {
+        "ID": "SKU-462",
+        "Producto": "Silla Gamer, Alta Velocidad",
+        "Precio": "1100.53",
+        "Stock": "29"
+    },
+    {
+        "ID": "SKU-464",
+        "Producto": "Auriculares Bluetooth",
+        "Precio": "23.85",
+        "Stock": "499"
+    },
+    {
+        "ID": "SKU-465",
+        "Producto": "Disco Duro Externo 2TB, Silencioso",
+        "Precio": "32.73",
+        "Stock": "470"
+    },
+    {
+        "ID": "SKU-468",
+        "Producto": "Hub 10 puertos",
+        "Precio": "342.19",
+        "Stock": "492"
+    },
+    {
+        "ID": "SKU-472",
+        "Producto": "SSD externo 2TB, RGB",
+        "Precio": "56.54",
+        "Stock": "398"
+    },
+    {
+        "ID": "SKU-473",
+        "Producto": "Memoria USB 128GB, Compacto",
+        "Precio": "29.30",
+        "Stock": "434"
+    },
+    {
+        "ID": "SKU-474",
+        "Producto": "Monitor 27\", WiFi 6E",
+        "Precio": "1243.56",
+        "Stock": "143"
+    },
+    {
+        "ID": "SKU-475",
+        "Producto": "Mini Drone, Premium",
+        "Precio": "647.42",
+        "Stock": "440"
+    },
+    {
+        "ID": "SKU-476",
+        "Producto": "Base para celular",
+        "Precio": "49.63",
+        "Stock": "194"
+    },
+    {
+        "ID": "SKU-477",
+        "Producto": "Mini Proyector, USB-C",
+        "Precio": "1229.94",
+        "Stock": "175"
+    },
+    {
+        "ID": "SKU-479",
+        "Producto": "Mouse Pad Gamer XL",
+        "Precio": "792.25",
+        "Stock": "100"
+    },
+    {
+        "ID": "SKU-480",
+        "Producto": "Hub USB-C 7 en 1",
+        "Precio": "994.13",
+        "Stock": "273"
+    },
+    {
+        "ID": "SKU-482",
+        "Producto": "Bocinas Bluetooth, Profesional Blanco",
+        "Precio": "202.87",
+        "Stock": "10"
+    },
+    {
+        "ID": "SKU-483",
+        "Producto": "SSD 500GB, Dual-Band",
+        "Precio": "243.84",
+        "Stock": "344"
+    },
+    {
+        "ID": "SKU-486",
+        "Producto": "Lector de Huellas",
+        "Precio": "1423.53",
+        "Stock": "494"
+    },
+    {
+        "ID": "SKU-488",
+        "Producto": "Mini Drone, Compacto",
+        "Precio": "37.91",
+        "Stock": "53"
+    },
+    {
+        "ID": "SKU-494",
+        "Producto": "Laptop Gamer, Dual-Band Negro Mate",
+        "Precio": "743.22",
+        "Stock": "112"
+    },
+    {
+        "ID": "SKU-497",
+        "Producto": "Tablet 8\", Alta Velocidad",
+        "Precio": "505.16",
+        "Stock": "372"
+    }
+]

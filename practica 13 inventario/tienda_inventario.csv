@@ -1,0 +1,500 @@
+ID,Producto,Precio,Stock
+SKU-001,"Hub USB-C 5 en 1, Silencioso",1281.76,216
+SKU-002,"Auriculares Bluetooth, Dual-Band",743.81,112
+SKU-003,"Disco HDD 1TB, EdiciÃ³n 2025 EconÃ³mico",30.04,194
+SKU-004,"Smartwatch Deportivo, USB-C",644.93,40
+SKU-005,"Impresora MultifunciÃ³n, USB-C",26.05,437
+SKU-006,Soporte para Laptop,311.85,359
+SKU-007,Base para celular,1165.62,112
+SKU-008,"Base para celular, Alta Velocidad",1047.69,448
+SKU-009,"CÃ¡mara tÃ©rmica, Reforzado",1072.64,275
+SKU-010,CÃ¡mara Web Full HD,898.53,46
+SKU-011,"Bluetooth Dongle, Profesional",1169.34,239
+SKU-012,"Teclado compacto, EdiciÃ³n 2025",323.50,57
+SKU-013,"MicrÃ³fono Lavalier, Blanco EdiciÃ³n 2025",38.48,445
+SKU-014,"CÃ¡mara Web 4K, Dual-Band",12.04,306
+SKU-015,"Tablet 8"", Profesional USB-C",36.00,43
+SKU-016,"CÃ¡mara PTZ, Compacto Premium",495.78,493
+SKU-017,Proyector 4K,283.98,224
+SKU-018,"Altavoz PortÃ¡til, RGB RGB",9.11,117
+SKU-019,Silla ErgonÃ³mica,45.67,370
+SKU-020,"SSD 4TB, RGB Reforzado",587.08,442
+SKU-021,"CÃ¡mara PTZ, Profesional",1034.11,229
+SKU-022,"CÃ¡mara de Seguridad, Silencioso Blanco",15.24,333
+SKU-023,Laptop BÃ¡sica,114.11,442
+SKU-024,MicrÃ³fono Condensador,209.80,216
+SKU-025,Lector NFC,39.85,296
+SKU-026,"SSD externo 2TB, WiFi 6E Alta Velocidad",939.82,41
+SKU-027,"SSD NVMe 500GB, Compacto",1072.35,20
+SKU-028,"Teclado Gamer, WiFi 6E",284.72,234
+SKU-029,SSD 2TB,969.99,109
+SKU-030,"Tablet Pro, USB-C",204.99,313
+SKU-031,"SSD 128GB, Recargable Profesional",146.55,144
+SKU-032,"CÃ¡mara IP, WiFi 6E",13.72,47
+SKU-033,"Hub USB-C 5 en 1, Silencioso Alta Velocidad",1418.86,361
+SKU-034,"Router WiFi 6 Pro, Profesional Compacto",1158.45,75
+SKU-035,"CÃ¡mara 360"", Recargable",114.65,341
+SKU-036,"Memoria USB 128GB, Negro Mate",99.96,451
+SKU-037,"SSD 500GB, WiFi 6E",72.94,403
+SKU-038,"Lector NFC, Alta Velocidad",57.79,114
+SKU-039,"Monitor 27"" Full HD",1145.80,204
+SKU-040,Mouse Vertical,146.53,19
+SKU-041,"Memoria USB 128GB, USB-C WiFi 6E",21.40,362
+SKU-042,"CÃ¡mara 360"", Dual-Band",19.02,368
+SKU-043,"Soporte Celular, Negro Mate WiFi 6E",63.65,315
+SKU-044,"Lector de CD externo, EdiciÃ³n 2025",683.66,226
+SKU-045,"Mouse Vertical, Reforzado",1098.65,171
+SKU-046,Parlantes EstÃ©reo,93.82,243
+SKU-047,"Tablet 7""",456.94,204
+SKU-048,"Adaptador HDMI, EdiciÃ³n 2025",1053.19,237
+SKU-049,"Tablet 10"", Profesional Blanco",657.41,313
+SKU-050,Teclado inalÃ¡mbrico,437.54,132
+SKU-051,"Bluetooth Dongle, Silencioso",264.15,120
+SKU-052,"Lector de Huellas, Compacto",738.53,169
+SKU-053,"Laptop BÃ¡sica, Alta Velocidad Dual-Band",913.67,194
+SKU-054,"Monitor 27"", USB-C",1276.75,409
+SKU-055,CÃ¡mara IP,563.87,370
+SKU-056,"Monitor Curvo 32""",37.34,42
+SKU-057,"Smartwatch Plus, Blanco EconÃ³mico",529.77,142
+SKU-058,Bluetooth Dongle,228.17,114
+SKU-059,"SSD 128GB, Alta Velocidad",115.97,242
+SKU-060,"Laptop Premium, Dual-Band",22.35,398
+SKU-061,Disco Duro Externo 2TB,722.54,482
+SKU-062,"CÃ¡mara tÃ©rmica, RGB",984.74,400
+SKU-063,"Impresora LÃ¡ser, Negro Mate",356.96,54
+SKU-064,"CÃ¡mara 360""",282.68,315
+SKU-065,Hub 10 puertos,22.34,142
+SKU-066,"Disco HDD 1TB, Blanco",621.87,108
+SKU-067,Altavoz Inteligente,110.43,43
+SKU-068,Mini PC,23.12,47
+SKU-069,"MicrÃ³fono Lavalier, RGB",1197.85,169
+SKU-070,Altavoz Inteligente,983.69,486
+SKU-071,LÃ¡mpara de escritorio,1432.15,144
+SKU-072,Smartwatch Deportivo,16.78,498
+SKU-073,"Tablet 10"", Premium Reforzado",10.39,129
+SKU-074,"Monitor 27"", Compacto",1004.44,485
+SKU-075,"Soporte Celular, RGB",1057.98,194
+SKU-076,Disco HDD 1TB,16.81,485
+SKU-077,"LÃ¡mpara de escritorio, Dual-Band",653.60,230
+SKU-078,"Parlante RGB, Recargable Alta Velocidad",281.69,403
+SKU-079,"CÃ¡mara Web 4K, Dual-Band Negro Mate",10.79,84
+SKU-080,"Smartwatch Classic, Recargable Blanco",868.47,224
+SKU-081,"Webcam HD 1080p, Negro Mate WiFi 6E",1502.36,486
+SKU-082,Teclado MecÃ¡nico,765.95,469
+SKU-083,"Teclado retroiluminado, Negro Mate",27.95,439
+SKU-084,"Disco Duro Externo 2TB, Reforzado",307.12,129
+SKU-085,"Tablet 8"", Metal",35.54,96
+SKU-086,"Altavoz PortÃ¡til, Reforzado",652.07,450
+SKU-087,"Lector NFC, EdiciÃ³n 2025 RGB",30.42,236
+SKU-088,Proyector PortÃ¡til,737.98,241
+SKU-089,"Adaptador HDMI, Premium Metal",425.08,174
+SKU-090,"Tablet Pro, EdiciÃ³n 2025",63.88,228
+SKU-091,"Hub 10 puertos, WiFi 6E Metal",65.74,438
+SKU-092,"Router portÃ¡til, WiFi 6E Reforzado",104.91,253
+SKU-093,"Auriculares Bluetooth, WiFi 6E",109.94,209
+SKU-094,SSD 128GB,9.47,436
+SKU-095,"Monitor 24"" Full HD",1431.58,18
+SKU-096,"Teclado Gamer, Recargable",39.92,227
+SKU-097,"Monitor Curvo 32""",43.68,125
+SKU-098,"Teclado compacto, EconÃ³mico EconÃ³mico",1248.37,73
+SKU-099,"Soporte para Laptop, Silencioso Blanco",40.75,37
+SKU-100,Adaptador Ethernet,341.27,101
+SKU-101,Smartwatch Pro,10.52,500
+SKU-102,"Monitor 21"", EdiciÃ³n 2025",376.97,426
+SKU-103,Router Mesh,104.15,321
+SKU-104,Smartwatch Deportivo,28.33,465
+SKU-105,"MicrÃ³fono Lavalier, Negro Mate",244.06,425
+SKU-106,"Monitor Curvo 32"", Reforzado",38.92,72
+SKU-107,Bluetooth Dongle,345.39,46
+SKU-108,"Mini Drone, Profesional",274.64,55
+SKU-109,"Mouse Vertical, EdiciÃ³n 2025",685.55,465
+SKU-110,"Lector NFC, Negro Mate",43.63,454
+SKU-111,"Hub 10 puertos, Blanco",115.95,453
+SKU-112,Lector SD USB,89.25,227
+SKU-113,Adaptador Ethernet,277.71,31
+SKU-114,"Mini Drone, Profesional",38.32,25
+SKU-115,"Monitor 24"" Full HD, Premium",56.42,168
+SKU-116,"Router portÃ¡til, EdiciÃ³n 2025",16.15,338
+SKU-117,"Monitor 27"" Full HD, USB-C",445.84,269
+SKU-118,MicrÃ³fono Profesional,1252.69,22
+SKU-119,CÃ¡mara PTZ,880.21,433
+SKU-120,"MicrÃ³fono Condensador, Profesional Reforzado",75.48,140
+SKU-121,Teclado Gamer,1217.60,220
+SKU-122,Smartwatch Deportivo,653.23,231
+SKU-123,"Soporte para Laptop, Blanco Metal",47.61,351
+SKU-124,"SSD 256GB, Compacto",1289.46,489
+SKU-125,"Smartband, Profesional Negro Mate",292.57,307
+SKU-126,"Smartwatch Classic, Dual-Band",12.11,390
+SKU-127,"Teclado retroiluminado, Negro Mate EdiciÃ³n 2025",279.50,471
+SKU-128,"Mouse Bluetooth, EconÃ³mico",35.71,46
+SKU-129,"Proyector LED, Metal Negro Mate",1558.99,43
+SKU-130,"Tablet 10"", Alta Velocidad",272.25,110
+SKU-131,"Bluetooth Dongle, USB-C Negro Mate",94.26,202
+SKU-132,"Base Refrigerante, Dual-Band",16.95,254
+SKU-133,"Proyector LED, Premium Metal",717.43,441
+SKU-134,"SSD externo 2TB, EdiciÃ³n 2025",586.11,148
+SKU-135,"MicrÃ³fono Profesional, WiFi 6E EconÃ³mico",33.44,124
+SKU-136,"CÃ¡mara 360"", Compacto Metal",35.73,271
+SKU-137,"AudÃ­fonos ANC, USB-C",268.45,101
+SKU-138,Teclado InalÃ¡mbrico,1245.88,389
+SKU-139,"Mini Proyector, WiFi 6E WiFi 6E",11.98,180
+SKU-140,"Tablet Pro, Blanco",21.91,314
+SKU-141,"Base Refrigerante, Blanco Alta Velocidad",104.79,490
+SKU-142,"Disco SSD 1TB, WiFi 6E Compacto",1207.60,312
+SKU-143,"Disco Duro Externo 2TB, Recargable",276.15,33
+SKU-144,"Monitor 24"" Full HD, Metal",271.01,41
+SKU-145,Mini Proyector,37.25,158
+SKU-146,"Smartband, WiFi 6E",1379.79,47
+SKU-147,Smartwatch Plus,873.14,98
+SKU-148,Silla Gamer,1277.84,19
+SKU-149,"Monitor 21"", Premium",52.34,369
+SKU-150,"Adaptador Ethernet, USB-C",506.71,119
+SKU-151,"Hub 10 puertos, Reforzado",276.01,398
+SKU-152,"Cargador USB-C, Negro Mate EconÃ³mico",151.83,283
+SKU-153,Memoria USB 128GB,1214.52,75
+SKU-154,"CÃ¡mara 360"", RGB",334.01,120
+SKU-155,Smartwatch Pro,42.26,70
+SKU-156,"Auriculares Bluetooth, Reforzado",29.97,9
+SKU-157,"Bocinas Bluetooth, Premium",241.39,62
+SKU-158,"Tablet 10"", Blanco",1342.37,123
+SKU-159,"CÃ¡mara tÃ©rmica, Negro Mate",1367.75,499
+SKU-160,"Banco de EnergÃ­a 20000mAh, EdiciÃ³n 2025",19.88,182
+SKU-161,"Silla ErgonÃ³mica, Profesional",98.81,425
+SKU-162,Router portÃ¡til,424.17,18
+SKU-163,"MicrÃ³fono Lavalier, Dual-Band",569.02,129
+SKU-164,Auriculares Bluetooth,13.31,409
+SKU-165,"CÃ¡mara de AcciÃ³n, Metal Blanco",1248.27,136
+SKU-166,Webcam HD 1080p,9.60,167
+SKU-167,"Monitor 21"", Blanco",278.65,314
+SKU-168,"CÃ¡mara 360"", Alta Velocidad",9.48,73
+SKU-169,CÃ¡mara IP,1153.51,16
+SKU-170,"CÃ¡mara IP, Blanco",665.66,160
+SKU-171,"SSD 128GB, Profesional",239.08,360
+SKU-172,"Disco HDD 1TB, Recargable",119.89,460
+SKU-173,"CÃ¡mara tÃ©rmica, Compacto WiFi 6E",96.76,364
+SKU-174,Impresora FotogrÃ¡fica,103.50,121
+SKU-175,"USB 64GB, USB-C",836.34,367
+SKU-176,"Teclado inalÃ¡mbrico, Negro Mate Negro Mate",1214.98,176
+SKU-177,Mouse Pad Gamer XL,32.75,425
+SKU-178,"Proyector PortÃ¡til, Recargable EconÃ³mico",171.86,433
+SKU-179,"Webcam HD 1080p, Silencioso",1018.05,78
+SKU-180,"Monitor Curvo 32""",30.78,41
+SKU-181,Impresora LÃ¡ser,32.44,254
+SKU-182,"CÃ¡mara Web 4K, Recargable Reforzado",104.59,225
+SKU-183,"Lector SD USB, Dual-Band WiFi 6E",753.81,66
+SKU-184,"LÃ¡mpara de escritorio, Profesional",181.52,484
+SKU-185,Smartwatch Pro,327.53,97
+SKU-186,"LÃ¡mpara de escritorio, Blanco",64.68,110
+SKU-187,"Mini Proyector, Alta Velocidad",16.28,433
+SKU-188,"Memoria USB 128GB, Silencioso USB-C",1036.26,147
+SKU-189,"Router WiFi 6, Blanco",32.23,201
+SKU-190,CÃ¡mara de AcciÃ³n,1256.39,20
+SKU-191,"Impresora LÃ¡ser, WiFi 6E",997.85,163
+SKU-192,"Disco Duro Externo 2TB, Recargable",619.42,417
+SKU-193,"Teclado MecÃ¡nico, Profesional",39.34,305
+SKU-194,"SSD 256GB, RGB",695.96,75
+SKU-195,"Base para celular, Profesional",1042.72,396
+SKU-196,"Tablet 7""",134.32,339
+SKU-197,"Monitor 27"", WiFi 6E EconÃ³mico",245.64,312
+SKU-198,"Monitor 27"", RGB",63.88,353
+SKU-199,"Impresora FotogrÃ¡fica, Reforzado USB-C",1301.43,194
+SKU-200,Mini Drone,186.80,473
+SKU-201,Adaptador Ethernet,310.43,70
+SKU-202,Memoria USB 128GB,26.37,51
+SKU-203,"SSD 500GB, Reforzado",652.69,334
+SKU-204,"SSD 256GB, Dual-Band Recargable",1301.89,378
+SKU-205,Teclado inalÃ¡mbrico,8.23,428
+SKU-206,Mini Drone,320.63,290
+SKU-207,"CÃ¡mara IP, WiFi 6E",1556.99,239
+SKU-208,"Lector de Huellas, Profesional",269.11,404
+SKU-209,"MicrÃ³fono Lavalier, Dual-Band EconÃ³mico",585.24,342
+SKU-210,"Smartwatch Deportivo, Premium",121.57,488
+SKU-211,"Monitor 24"" Full HD, EdiciÃ³n 2025",68.76,207
+SKU-212,"Base para celular, Recargable Profesional",471.47,78
+SKU-213,Soporte Monitor,73.27,390
+SKU-214,Adaptador HDMI,1153.25,57
+SKU-215,Disco SSD 1TB,440.50,59
+SKU-216,"Base para celular, Reforzado",599.39,288
+SKU-217,"Disco SSD 1TB, Recargable EdiciÃ³n 2025",291.54,358
+SKU-218,"Silla ErgonÃ³mica, Alta Velocidad Compacto",448.99,191
+SKU-219,"Cargador USB-C, Metal Metal",9.65,91
+SKU-220,"Hub 10 puertos, Premium",1108.85,217
+SKU-221,"Hub 10 puertos, RGB",15.17,16
+SKU-222,"Monitor 21"", EdiciÃ³n 2025 RGB",13.80,125
+SKU-223,"SSD externo 2TB, Blanco",318.66,119
+SKU-224,"CÃ¡mara PTZ, WiFi 6E RGB",16.96,285
+SKU-225,Cable HDMI 2m,622.59,402
+SKU-226,"Teclado compacto, Negro Mate",63.99,153
+SKU-227,"Impresora FotogrÃ¡fica, Blanco",84.99,130
+SKU-228,"AudÃ­fonos con cable, Compacto",141.27,193
+SKU-229,Mouse Vertical,45.82,245
+SKU-230,AudÃ­fonos con cable,17.99,382
+SKU-231,"Bluetooth Dongle, RGB Dual-Band",193.97,157
+SKU-232,"CÃ¡mara Web Full HD, Reforzado",104.23,189
+SKU-233,"SSD 2TB, RGB Premium",84.26,168
+SKU-234,"Soporte para Laptop, RGB",491.53,235
+SKU-235,"Monitor Curvo 32""",18.62,268
+SKU-236,Auriculares Bluetooth,105.44,34
+SKU-237,"Impresora FotogrÃ¡fica, Dual-Band",716.72,337
+SKU-238,"LÃ¡mpara LED, Negro Mate",887.61,412
+SKU-239,"Teclado InalÃ¡mbrico, Profesional",488.83,40
+SKU-240,CÃ¡mara de AcciÃ³n,22.15,334
+SKU-241,SSD 128GB,70.34,42
+SKU-242,USB 64GB,28.28,117
+SKU-243,Proyector 4K,182.35,460
+SKU-244,"Laptop BÃ¡sica, Alta Velocidad EconÃ³mico",672.87,475
+SKU-245,"Router WiFi 6, RGB",107.96,404
+SKU-246,Parlante RGB,132.35,309
+SKU-247,Altavoz pequeÃ±o,698.77,251
+SKU-248,"Soporte para Laptop, Metal",94.38,365
+SKU-249,"Router WiFi 6, Premium",19.54,2
+SKU-250,"Smartwatch Classic, Silencioso Profesional",11.37,45
+SKU-251,"Altavoz Inteligente, WiFi 6E Metal",73.10,292
+SKU-252,"Altavoz PortÃ¡til, Metal",181.73,215
+SKU-253,"Soporte Celular, Compacto USB-C",15.31,69
+SKU-254,"Soporte Celular, Metal",1134.32,69
+SKU-255,"Soporte Celular, Dual-Band",525.53,495
+SKU-256,SSD 4TB,62.42,303
+SKU-257,"Laptop BÃ¡sica, EdiciÃ³n 2025",38.45,419
+SKU-258,SSD 500GB,434.78,37
+SKU-259,Disco HDD 1TB,1384.20,18
+SKU-260,Banco de EnergÃ­a 20000mAh,330.31,85
+SKU-261,Smartwatch Plus,881.75,54
+SKU-262,"Mouse InalÃ¡mbrico, RGB",666.38,237
+SKU-263,Altavoz pequeÃ±o,29.78,59
+SKU-264,"CÃ¡mara PTZ, Recargable",541.57,163
+SKU-265,"Silla ErgonÃ³mica, Profesional",67.45,264
+SKU-266,"Teclado InalÃ¡mbrico, WiFi 6E Negro Mate",451.45,202
+SKU-267,"Monitor 27"" Full HD",218.80,385
+SKU-268,Impresora FotogrÃ¡fica,452.83,58
+SKU-269,CÃ¡mara Web Full HD,23.15,178
+SKU-270,Altavoz Inteligente,27.37,344
+SKU-271,"CÃ¡mara de Seguridad, RGB",54.64,294
+SKU-272,"Smartwatch Pro, Reforzado EconÃ³mico",25.31,443
+SKU-273,Altavoz Inteligente,658.87,350
+SKU-274,"LÃ¡mpara LED, Blanco Reforzado",85.23,275
+SKU-275,"Router Mesh, Blanco",233.92,396
+SKU-276,Laptop BÃ¡sica,745.44,52
+SKU-277,SSD externo 2TB,31.79,224
+SKU-278,Proyector PortÃ¡til,542.85,84
+SKU-279,"Tablet 7"", Dual-Band",104.44,165
+SKU-280,"Impresora FotogrÃ¡fica, Silencioso",798.35,470
+SKU-281,Disco SSD 1TB,50.15,389
+SKU-282,"Mouse Vertical, Premium",26.06,206
+SKU-283,AudÃ­fonos ANC,29.93,374
+SKU-284,Soporte Monitor,108.01,253
+SKU-285,"Lector de Huellas, Recargable",18.15,23
+SKU-286,Smartwatch Deportivo,436.89,103
+SKU-287,Parlante RGB,321.12,128
+SKU-288,"Webcam HD 1080p, EconÃ³mico",8.71,360
+SKU-289,"Smartwatch Deportivo, Reforzado",239.47,418
+SKU-290,Proyector PortÃ¡til,20.94,52
+SKU-291,"SSD 2TB, Recargable",101.88,35
+SKU-292,"Teclado compacto, EconÃ³mico Blanco",855.94,440
+SKU-293,"Proyector 4K, Profesional",49.85,126
+SKU-294,Teclado retroiluminado,15.19,434
+SKU-295,"Monitor 21""",88.55,253
+SKU-296,"Smartwatch Pro, Reforzado",324.41,67
+SKU-297,Smartwatch Pro,25.76,8
+SKU-298,"Cable HDMI 2m, Silencioso",1100.54,392
+SKU-299,"Lector SD USB, Metal Compacto",83.01,498
+SKU-300,"Kit de Herramientas PC, Metal Compacto",481.25,59
+SKU-301,Soporte Monitor,93.29,359
+SKU-302,"Mouse InalÃ¡mbrico, USB-C",285.78,375
+SKU-303,Proyector PortÃ¡til,1398.63,321
+SKU-304,"Router WiFi 6, USB-C Alta Velocidad",972.03,345
+SKU-305,"Teclado inalÃ¡mbrico, EdiciÃ³n 2025",109.03,91
+SKU-306,"Auriculares Bluetooth, Negro Mate RGB",285.67,61
+SKU-307,Tablet Pro,375.26,443
+SKU-308,Router Mesh,225.05,378
+SKU-309,"Teclado Gamer, USB-C",79.47,77
+SKU-310,Laptop Gamer,266.27,0
+SKU-311,LÃ¡mpara de escritorio,641.40,492
+SKU-312,Disco SSD 1TB,477.31,358
+SKU-313,"CÃ¡mara de AcciÃ³n, Compacto Profesional",90.98,121
+SKU-314,"MicrÃ³fono Lavalier, WiFi 6E",71.44,38
+SKU-315,"Mouse Gamer RGB, Profesional",53.15,231
+SKU-316,"Smartwatch Classic, Profesional Compacto",310.07,75
+SKU-317,Parlantes EstÃ©reo,71.70,15
+SKU-318,MicrÃ³fono Condensador,25.35,6
+SKU-319,Disco SSD 1TB,39.42,298
+SKU-320,"Cable HDMI 2m, Compacto",327.57,62
+SKU-321,Impresora LÃ¡ser,748.44,349
+SKU-322,"Router WiFi 6 Pro, Dual-Band",1329.87,125
+SKU-323,"Smartwatch Plus, Negro Mate",1193.46,127
+SKU-324,CÃ¡mara Web 4K,742.35,176
+SKU-325,"Lector de CD externo, Metal Silencioso",12.93,414
+SKU-326,"SSD 256GB, RGB EconÃ³mico",10.30,391
+SKU-327,"Silla Gamer, Metal USB-C",159.95,467
+SKU-328,"Cable HDMI 2m, USB-C",453.53,277
+SKU-329,"Smartwatch Classic, Alta Velocidad",900.48,103
+SKU-330,"Mouse Pad Gamer XL, EconÃ³mico",107.54,396
+SKU-331,MicrÃ³fono Profesional,35.40,172
+SKU-332,"Soporte Celular, EconÃ³mico",1122.10,355
+SKU-333,"Tablet 7""",87.12,90
+SKU-334,"CÃ¡mara PTZ, Metal",1122.75,113
+SKU-335,"Hub USB-C 5 en 1, Reforzado Premium",17.93,420
+SKU-336,Impresora FotogrÃ¡fica,122.62,131
+SKU-337,Memoria USB 128GB,441.49,179
+SKU-338,"Laptop BÃ¡sica, Reforzado",33.03,150
+SKU-339,"Teclado MecÃ¡nico, Profesional",9.45,173
+SKU-340,Base Refrigerante,709.50,80
+SKU-341,"Tablet 10"", Dual-Band",247.45,152
+SKU-342,"Mini PC, Metal",155.33,421
+SKU-343,"Monitor 21""",701.00,432
+SKU-344,"MicrÃ³fono Profesional, Metal",180.95,453
+SKU-345,"Cargador USB-C, Blanco",75.18,385
+SKU-346,Lector NFC,1312.81,31
+SKU-347,Smartwatch Pro,611.15,153
+SKU-348,"Webcam HD 1080p, Alta Velocidad",23.57,486
+SKU-349,"Bluetooth Dongle, EconÃ³mico Dual-Band",50.09,427
+SKU-350,"Base Refrigerante, Compacto",9.87,402
+SKU-351,Lector NFC,24.24,473
+SKU-352,"Memoria USB 128GB, Profesional Recargable",1358.35,311
+SKU-353,"SSD 256GB, Silencioso",276.59,353
+SKU-354,"Mini PC, Reforzado",124.65,431
+SKU-355,LÃ¡mpara LED,172.43,137
+SKU-356,"CÃ¡mara PTZ, Compacto Dual-Band",213.65,420
+SKU-357,"Disco SSD 1TB, EconÃ³mico Compacto",17.27,88
+SKU-358,Laptop Ultrabook,44.61,140
+SKU-359,CÃ¡mara de AcciÃ³n,1160.73,228
+SKU-360,Teclado InalÃ¡mbrico,22.66,145
+SKU-361,"Monitor 27"" Full HD, EconÃ³mico",102.39,137
+SKU-362,"SSD 128GB, EdiciÃ³n 2025 EdiciÃ³n 2025",1056.64,412
+SKU-363,Smartwatch Classic,62.03,238
+SKU-364,Soporte Celular,143.53,287
+SKU-365,"Smartwatch Plus, Recargable Recargable",197.35,133
+SKU-366,SSD 128GB,1529.78,206
+SKU-367,"Monitor 21"", Premium",492.68,377
+SKU-368,"Auriculares Bluetooth, Dual-Band WiFi 6E",242.97,259
+SKU-369,Soporte Celular,161.66,371
+SKU-370,Smartband,197.20,215
+SKU-371,"Monitor 24"" Full HD, Recargable",1306.22,36
+SKU-372,SSD 256GB,109.40,70
+SKU-373,"Mouse Gamer RGB, Blanco",108.99,160
+SKU-374,"Hub USB-C 5 en 1, Blanco",16.03,66
+SKU-375,"Tablet 7"", Negro Mate Metal",21.16,456
+SKU-376,"Tablet 8""",120.95,159
+SKU-377,"Mouse Pad Gamer XL, Recargable",1409.48,268
+SKU-378,"Mouse Bluetooth, Premium WiFi 6E",440.69,9
+SKU-379,"Soporte para Laptop, Premium",13.97,192
+SKU-380,"Hub USB-C 5 en 1, Alta Velocidad",26.60,213
+SKU-381,"Adaptador Ethernet, Silencioso",22.66,339
+SKU-382,"Altavoz PortÃ¡til, Premium",20.82,254
+SKU-383,Mouse Gamer RGB,106.52,20
+SKU-384,"Impresora MultifunciÃ³n, Dual-Band Reforzado",848.78,76
+SKU-385,Parlantes EstÃ©reo,328.10,135
+SKU-386,"Silla de Oficina, EconÃ³mico",35.85,48
+SKU-387,LÃ¡mpara de escritorio,1526.17,137
+SKU-388,"CÃ¡mara PTZ, WiFi 6E",499.51,409
+SKU-389,Lector SD USB,49.04,53
+SKU-390,Lector SD USB,1445.42,14
+SKU-391,Base para celular,618.47,23
+SKU-392,"Silla ErgonÃ³mica, WiFi 6E",109.47,500
+SKU-393,Laptop Premium,588.07,177
+SKU-394,"Monitor 21""",107.12,258
+SKU-395,SSD 256GB,35.69,259
+SKU-396,"Silla Gamer, Metal Metal",665.17,228
+SKU-397,"SSD 2TB, Reforzado",31.59,405
+SKU-398,CÃ¡mara IP,249.34,186
+SKU-399,"Tablet 10""",296.51,366
+SKU-400,"Disco HDD 1TB, RGB",265.74,359
+SKU-401,"Memoria USB 128GB, EconÃ³mico",105.75,96
+SKU-402,Proyector PortÃ¡til,744.23,23
+SKU-403,Hub USB-C 5 en 1,101.77,493
+SKU-404,"USB 64GB, Alta Velocidad",74.62,354
+SKU-405,"Mini Proyector, Premium",527.01,311
+SKU-406,Parlante RGB,599.07,308
+SKU-407,Lector NFC,1415.77,323
+SKU-408,"Proyector 4K, Recargable",113.70,257
+SKU-409,Laptop BÃ¡sica,614.20,345
+SKU-410,Proyector LED,357.02,74
+SKU-411,"Tablet 10""",13.60,353
+SKU-412,"MicrÃ³fono Lavalier, Alta Velocidad",76.21,380
+SKU-413,"Smartwatch Plus, RGB Recargable",207.76,494
+SKU-414,"Impresora MultifunciÃ³n, Silencioso",317.90,386
+SKU-415,"Cable HDMI 2m, Dual-Band Dual-Band",1021.66,61
+SKU-416,"Cargador USB-C, Silencioso",50.41,20
+SKU-417,Kit de Herramientas PC,1110.81,281
+SKU-418,"Altavoz Inteligente, WiFi 6E",1011.56,274
+SKU-419,"MicrÃ³fono Condensador, RGB",1565.22,271
+SKU-420,SSD 256GB,1211.97,470
+SKU-421,"Teclado Gamer, Alta Velocidad",1170.11,370
+SKU-422,"Router Mesh, USB-C",231.97,263
+SKU-423,Webcam HD 1080p,116.50,442
+SKU-424,"Base para celular, Profesional Dual-Band",24.75,382
+SKU-425,"Base para celular, Blanco",30.66,294
+SKU-426,Soporte para Laptop,20.45,273
+SKU-427,Laptop Gamer,950.81,54
+SKU-428,MicrÃ³fono Lavalier,16.94,242
+SKU-429,"Disco Duro Externo 2TB, Premium Metal",187.85,490
+SKU-430,"Mouse InalÃ¡mbrico, Premium Profesional",85.82,383
+SKU-431,SSD externo 2TB,73.01,315
+SKU-432,"Bocinas Bluetooth, EconÃ³mico",1593.05,236
+SKU-433,"Smartwatch Plus, Recargable Compacto",55.79,51
+SKU-434,Router Mesh,1113.97,78
+SKU-435,"Lector de CD externo, WiFi 6E Negro Mate",300.70,430
+SKU-436,"Banco de EnergÃ­a 20000mAh, WiFi 6E",77.03,330
+SKU-437,"CÃ¡mara IP, Silencioso",35.34,372
+SKU-438,Router WiFi 6,90.53,464
+SKU-439,"Auriculares Bluetooth, Reforzado Premium",753.27,256
+SKU-440,"AudÃ­fonos ANC, USB-C",93.01,387
+SKU-441,"AudÃ­fonos ANC, EconÃ³mico",882.25,480
+SKU-442,"Altavoz Inteligente, Reforzado",173.82,198
+SKU-443,SSD 256GB,269.16,427
+SKU-444,"SSD externo 2TB, EconÃ³mico",255.17,192
+SKU-445,"Silla Gamer, USB-C USB-C",78.57,117
+SKU-446,"Router WiFi 6, Silencioso Dual-Band",799.33,415
+SKU-447,"Monitor 24"" Full HD",22.89,124
+SKU-448,"Impresora LÃ¡ser, EconÃ³mico",81.01,264
+SKU-449,"MicrÃ³fono Condensador, EdiciÃ³n 2025 Recargable",57.33,425
+SKU-450,SSD 500GB,161.83,472
+SKU-451,"Soporte Monitor, Compacto RGB",637.49,423
+SKU-452,Kit de Herramientas PC,12.85,47
+SKU-453,"Monitor 27""",865.75,267
+SKU-454,"Lector SD USB, Alta Velocidad",335.84,301
+SKU-455,SSD externo 2TB,34.63,145
+SKU-456,Base Refrigerante,20.49,266
+SKU-457,"Laptop Gamer, Dual-Band",203.32,133
+SKU-458,"Hub 10 puertos, USB-C Silencioso",71.80,189
+SKU-459,"Smartband, Silencioso Recargable",26.06,382
+SKU-460,"Soporte para Laptop, EconÃ³mico Profesional",14.08,82
+SKU-461,Smartwatch Pro,7.17,134
+SKU-462,"Silla Gamer, Alta Velocidad",1100.53,29
+SKU-463,Router portÃ¡til,166.39,99
+SKU-464,Auriculares Bluetooth,23.85,499
+SKU-465,"Disco Duro Externo 2TB, Silencioso",32.73,470
+SKU-466,"Parlantes EstÃ©reo, USB-C USB-C",1550.80,2
+SKU-467,"CÃ¡mara Web Full HD, Profesional",198.19,448
+SKU-468,Hub 10 puertos,342.19,492
+SKU-469,"Router portÃ¡til, Blanco EdiciÃ³n 2025",60.63,409
+SKU-470,"SSD 2TB, USB-C EdiciÃ³n 2025",186.08,38
+SKU-471,Impresora MultifunciÃ³n,68.28,255
+SKU-472,"SSD externo 2TB, RGB",56.54,398
+SKU-473,"Memoria USB 128GB, Compacto",29.30,434
+SKU-474,"Monitor 27"", WiFi 6E",1243.56,143
+SKU-475,"Mini Drone, Premium",647.42,440
+SKU-476,Base para celular,49.63,194
+SKU-477,"Mini Proyector, USB-C",1229.94,175
+SKU-478,"Banco de EnergÃ­a 20000mAh, Negro Mate",96.06,292
+SKU-479,Mouse Pad Gamer XL,792.25,100
+SKU-480,Hub USB-C 7 en 1,994.13,273
+SKU-481,"Teclado inalÃ¡mbrico, Reforzado",16.90,110
+SKU-482,"Bocinas Bluetooth, Profesional Blanco",202.87,10
+SKU-483,"SSD 500GB, Dual-Band",243.84,344
+SKU-484,"AudÃ­fonos ANC, Blanco Compacto",265.29,215
+SKU-485,CÃ¡mara Web 4K,138.20,363
+SKU-486,Lector de Huellas,1423.53,494
+SKU-487,"Disco HDD 1TB, EconÃ³mico EdiciÃ³n 2025",58.77,85
+SKU-488,"Mini Drone, Compacto",37.91,53
+SKU-489,CÃ¡mara Web Full HD,476.15,320
+SKU-490,"Mouse Pad Gamer XL, EconÃ³mico",1233.31,478
+SKU-491,"Lector de Huellas, Premium EconÃ³mico",1204.48,158
+SKU-492,"Teclado MecÃ¡nico Azul, RGB Compacto",69.26,176
+SKU-493,"Router Mesh, EdiciÃ³n 2025 Reforzado",78.17,407
+SKU-494,"Laptop Gamer, Dual-Band Negro Mate",743.22,112
+SKU-495,"CÃ¡mara Web Full HD, RGB",1090.31,414
+SKU-496,"Lector de Huellas, Compacto EconÃ³mico",599.02,96
+SKU-497,"Tablet 8"", Alta Velocidad",505.16,372
+SKU-498,"Mouse InalÃ¡mbrico, Premium",216.66,237
+SKU-499,Lector NFC,17.90,278
