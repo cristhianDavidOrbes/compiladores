@@ -1,0 +1,59 @@
+bool a;
+bool b;
+bool c;
+bool d;
+bool e;
+bool f;
+bool g;
+bool h;
+bool ok;
+
+a = input();
+b = input();
+c = (a and not b) or (b nand a) and (a != b);
+d = ((a xor b) and !(c)) or (a xnor b);
+e = ((a or b) and (c nor d)) or ((a nand d) and (b xor c));
+f = ( (a and b) or (c and d) ) xnor ( (a xor d) or (b nand c) );
+g = ( (a nor b) and (not c) ) or ( (d and e) nand (f or g) );
+h = not ( (a and (b or c)) xnor ( (d nand e) or (f and (g nor h)) ) );
+
+if ( (a and not b) or ( (c and (not d or a)) and (a != d) ) ) {
+    ok = ( (c nor d) or (e and not f) ) and ( (a xor b) or (d xnor e) );
+    g = (g xor ok) and (not (a nand b));
+} else {
+    ok = ( (a xnor b) and (c or d) ) or ( (e nand f) and (g nor h) );
+    g = (g xnor ok) or (a and (b nor c));
+}
+
+while ( (a or b) and not (a != b) ) {
+    b = not b;
+    c = (c xor a) or (b nand d);
+    if ( (e and f) or (g nor h) ) {
+        d = (d xnor (a and !b)) and (c or e);
+    } else {
+        d = (d xor (a or b)) nor (c and f);
+    }
+}
+
+while ( ((a and c) or (d nand e)) and ( (f nor g) or !(h)) ) {
+    a = not a;
+    e = (e xor (a and b)) or (c nand d);
+    if ( (a != b) and (c or d) ) {
+        f = (f and (a nor b)) or (e xnor g);
+    } else {
+        f = (f or (a nand c)) and (not (e xor h));
+    }
+    if ( (a and b) or (c and d) ) {
+        h = (h xor (e nor f)) or (a xnor g);
+    }
+}
+
+print(a);
+print(b);
+print(c);
+print(d);
+print(e);
+print(f);
+print(g);
+print(h);
+print(ok);

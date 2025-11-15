@@ -1,0 +1,4 @@
+void g(bool x) {
+    return x; // error: return con valor en void
+}
+g(true);

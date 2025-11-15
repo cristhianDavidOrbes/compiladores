@@ -1,0 +1,16 @@
+bool t; bool u; bool res;
+
+bool gate(bool x, bool y, bool z) {
+    bool m;
+    m = (x and not y);
+    while ((m or z) and not (x != z)) {
+        z = not z;
+        m = (m xor z);
+    }
+    return (m or z);
+}
+
+t = true;
+u = false;
+res = gate(t, u, (t != u));
+print(res);

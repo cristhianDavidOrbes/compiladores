@@ -1,0 +1,4 @@
+bool a;
+a = true;
+b = false; // b no declarada
+print(a);

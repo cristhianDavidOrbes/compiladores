@@ -1,0 +1,10 @@
+bool a; bool b; bool c; bool r;
+
+bool eq(bool x, bool y) { return x xnor y; }
+bool neq(bool x, bool y) { return x xor y; }
+
+a = input();
+b = input();
+c = (a nor b) or (a nand b);
+r = eq(c, neq(a, b));
+print(r);

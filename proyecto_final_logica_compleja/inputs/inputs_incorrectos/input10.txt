@@ -1,0 +1,8 @@
+bool z;
+
+bool m(bool p, bool q) {
+    return (p and q);
+}
+
+z = m(true); 
+print(z);

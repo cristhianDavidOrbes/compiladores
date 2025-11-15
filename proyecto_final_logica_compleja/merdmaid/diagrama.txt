@@ -1,0 +1,17 @@
+flowchart LR
+    A[Codigo fuente .txt] --> B[Analisis lexico]
+    B --> T[Tokens]
+    T --> C[Analisis sintactico]
+    C --> AST[Arbol sintactico AST]
+    AST --> D[Analisis semantico]
+    D --> ST[Tabla de simbolos]
+    D --> IR[Generador IR]
+    IR --> TAC[Codigo intermedio TAC]
+    TAC --> E[Generador de codigo Python]
+    E --> PY[Archivo py]
+    PY --> R[Ejecucion y salida]
+
+    %% Ramas de errores simples
+    B -. errores lexicos .-> X1[Errores]
+    C -. errores sintacticos .-> X2[Errores]
+    D -. errores semanticos .-> X3[Errores]

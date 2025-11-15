@@ -1,0 +1,2 @@
+[SEMANTICO]
+Error Semántico: La variable 'y' no está declarada.

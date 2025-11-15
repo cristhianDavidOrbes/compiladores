@@ -1,0 +1,8 @@
+bool h(bool x, bool y) {
+    if (x and y) {
+        return true;
+    } else {
+        return; 
+    }
+}
+print(h(true, false));

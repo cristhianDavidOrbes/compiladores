@@ -1,0 +1,22 @@
+bool a; bool b; bool c; bool ans;
+
+bool inner(bool x) {
+    bool w;
+    w = (not x);
+    return w;
+}
+
+bool outer(bool p, bool q) {
+    bool t;
+    t = (p and inner(q));
+    if ((p and not q) or (t and (not q or p)) and (p != q)) {
+        return nor(p, q);
+    } else {
+        return xnor(p, q);
+    }
+}
+
+a = true; b = false;
+c = (a != b);
+ans = outer(a, c);
+print(ans);

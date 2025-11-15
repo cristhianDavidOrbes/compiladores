@@ -1,0 +1,14 @@
+bool a; bool b; bool c; bool ok;
+
+void flipIf(bool cond) {
+    if (cond) {
+        a = not a;
+    } else {
+        b = not b;
+    }
+}
+
+a = true; b = false; c = (a xor b);
+flipIf(c);
+ok = (a or b);
+print(ok);

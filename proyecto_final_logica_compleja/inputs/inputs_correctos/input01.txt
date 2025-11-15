@@ -1,0 +1,10 @@
+bool a; bool b; bool r;
+
+bool id(bool x) {
+    return x;
+}
+
+a = true;
+b = false;
+r = id((a and not b) or (a != b));
+print(r);

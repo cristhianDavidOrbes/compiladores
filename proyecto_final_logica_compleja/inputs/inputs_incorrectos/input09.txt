@@ -1,0 +1,7 @@
+bool res;
+
+bool f(bool x) { return not x; }
+
+f = true; // error: f es función, no variable
+res = f(res); // además res no inicializada usable según tu regla
+print(res);

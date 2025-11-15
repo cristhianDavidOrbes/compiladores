@@ -1,0 +1,4 @@
+y = not z; // y y z no declaradas
+bool y;
+bool z;
+print(y);

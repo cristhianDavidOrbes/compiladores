@@ -1,0 +1,33 @@
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input01.txt
+[SEMANTICO]
+Error Semántico: La variable 'b' no está declarada.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input02.txt
+[SEMANTICO]
+Error Semántico: La variable 'x' ya está definida en este ámbito.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input03.txt
+[SEMANTICO]
+Error Semántico: La variable 'y' no está declarada.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input04.txt
+[SEMANTICO]
+Error Semántico: Identificador 'b' no declarado.
+Error Semántico: Se esperaba booleano en operando AND/NAND, se obtuvo 'error'.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input05.txt
+[SEMANTICO]
+Error Semántico: Se esperaba booleano en expresión AND/NAND, se obtuvo 'void'.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input06.txt
+[SEMANTICO]
+Error Semántico: 'return valor' en función void.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input07.txt
+[SEMANTICO]
+Error Semántico: 'return;' en función no-void.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input08.txt
+[SEMANTICO]
+Error Semántico: La función 'pair' esperaba 2 argumentos y recibió 1.
+Error Semántico: Se esperaba booleano en expresión AND/NAND, se obtuvo 'error'.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input09.txt
+[SEMANTICO]
+Error Semántico: Asignación inválida sobre 'f'.
+@cristhianDavidOrbes ➜ /workspaces/compiladores/proyecto_final_logica_compleja (main) $ python main.py inputs/inputs_incorrectos/input10.txt
+[SEMANTICO]
+Error Semántico: La función 'm' esperaba 2 argumentos y recibió 1.
+Error Semántico: Se esperaba booleano en expresión AND/NAND, se obtuvo 'error'.

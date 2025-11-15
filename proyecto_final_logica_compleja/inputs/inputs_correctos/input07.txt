@@ -1,0 +1,11 @@
+bool g; bool h; bool k;
+
+bool passIf(bool cond, bool x) {
+    if (cond) { return x; }
+    else { return not x; }
+}
+
+g = true;
+h = false;
+k = passIf((g nor h), (g != h));
+print(k);

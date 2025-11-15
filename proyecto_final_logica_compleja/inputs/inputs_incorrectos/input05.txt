@@ -1,0 +1,8 @@
+bool ok;
+
+void foo(bool x) {
+    if (x) { return; }
+}
+
+ok = foo(true); // error: foo es void, no retorna valor
+print(ok);

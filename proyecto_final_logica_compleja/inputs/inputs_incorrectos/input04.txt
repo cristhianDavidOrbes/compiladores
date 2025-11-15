@@ -1,0 +1,5 @@
+bool a; a = true;
+while (a and b) { // b no declarada
+    a = not a;
+}
+print(a);

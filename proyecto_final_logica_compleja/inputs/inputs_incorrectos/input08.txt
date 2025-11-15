@@ -1,0 +1,7 @@
+bool a; bool b; bool r;
+
+bool pair(bool x, bool y) { return x and y; }
+
+a = true; b = false;
+r = pair(a); // error: falta segundo argumento
+print(r);

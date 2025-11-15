@@ -1,0 +1,17 @@
+bool a; bool b; bool z;
+
+bool mix(bool x, bool y) {
+    bool t;
+    t = (x nand y);
+    if (t) {
+        t = nor(x, y);
+    } else {
+        t = xnor(x, y);
+    }
+    return t;
+}
+
+a = input();
+b = input();
+z = mix(a, b);
+print(z);

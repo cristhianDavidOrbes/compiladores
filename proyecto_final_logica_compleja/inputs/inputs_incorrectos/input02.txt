@@ -1,0 +1,4 @@
+bool x;
+bool x; // redeclaración
+x = true;
+print(x);

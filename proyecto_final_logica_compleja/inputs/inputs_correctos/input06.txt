@@ -1,0 +1,9 @@
+bool a; bool b; bool c; bool out;
+
+bool reduce3(bool x, bool y, bool z) {
+    return ((x and not y) or (z and (x != y))) and (xnor(x, z));
+}
+
+a = true; b = true; c = false;
+out = reduce3(a, b, c);
+print(out);

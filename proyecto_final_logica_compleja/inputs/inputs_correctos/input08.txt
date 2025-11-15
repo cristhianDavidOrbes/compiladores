@@ -1,0 +1,16 @@
+bool a; bool b; bool c; bool d;
+
+void spinUntilEqual(bool x, bool y) {
+    while ((x or y) and not (x == y)) { // usa equivalencia vía xnor
+        y = not y;
+        if (xnor(x, y)) { break; }
+    }
+}
+
+a = input();
+b = input();
+spinUntilEqual(a, b);
+c = xnor(a, b);
+d = (a or b) and not (a != b);
+print(c);
+print(d);
